@@ -1,0 +1,42 @@
+
+
+initial commands
+---------------------------------------------
+
+1.git init (for initializing git)
+2.git add –A (adding all git functionalities)
+3.git branch –M main (selecting which branch)
+4.git remote add origin link (linking the project with git repo)
+5.git commit –m “first commit”
+6.git push –u origin main (pushing codes inside git)
+
+
+If error occurred for not finding account
+__________________________________________
+
+•	git config –global user.email “shazidmorshed14@gmail.com”
+•	git config –global user.username “ShazidMorshed14”
+
+
+For updating code inside a repo every time
+----------------------------------------------
+•	git add –A
+•	git checkout branch-name
+•	git commit –m “updated code”
+•	git push –u origin branch-name
+
+
+
+For Pulling code
+-------------------
+•	git pull
+
+
+
+Switching branches:
+--------------------
+1.	To see branch list: git branch
+2.	To Create New Branch: git branch branch-name
+3.	To go inside a branch: git checkout branch-name
+4.	To send code to a branch: git push –u origin branch-name
+5.	To delete Branch: git branch –d branch-name
