@@ -40,3 +40,6 @@ Switching branches:
 3.	To go inside a branch: git checkout branch-name
 4.	To send code to a branch: git push –u origin branch-name
 5.	To delete Branch: git branch –d branch-name
+
+development branch added
+-------------------------
